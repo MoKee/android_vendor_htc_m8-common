@@ -159,11 +159,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8-common/proprietary/lib/libtuning_awb_ov4688.so:system/lib/libtuning_awb_ov4688.so \
     vendor/htc/m8-common/proprietary/lib/libtuning_awb_s5k5e.so:system/lib/libtuning_awb_s5k5e.so \
     vendor/htc/m8-common/proprietary/lib/libtuning_awb_vd6869.so:system/lib/libtuning_awb_vd6869.so \
-    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
-    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
-    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
-    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
-    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
+    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster.b00:system/vendor/firmware/keymaster.b00 \
+    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster.b01:system/vendor/firmware/keymaster.b01 \
+    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster.b02:system/vendor/firmware/keymaster.b02 \
+    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster.b03:system/vendor/firmware/keymaster.b03 \
+    vendor/htc/m8-common/proprietary/vendor/firmware/keymaster.mdt:system/vendor/firmware/keymaster.mdt \
     vendor/htc/m8-common/proprietary/vendor/firmware/wcnss.b00:system/vendor/firmware/wcnss.b00 \
     vendor/htc/m8-common/proprietary/vendor/firmware/wcnss.b01:system/vendor/firmware/wcnss.b01 \
     vendor/htc/m8-common/proprietary/vendor/firmware/wcnss.b02:system/vendor/firmware/wcnss.b02 \
@@ -292,7 +292,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/htc/m8-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/htc/m8-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/htc/m8-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/htc/m8-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/htc/m8-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/htc/m8-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
